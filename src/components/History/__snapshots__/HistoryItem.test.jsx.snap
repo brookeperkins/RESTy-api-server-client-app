@@ -1,21 +1,5 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`HistoryItem component renders HistoryItem component 1`] = `
-<DocumentFragment>
-  <section>
-    <h2>
-      GET
-    </h2>
-    <p>
-      https://hey-arnold-api.herokuapp.com/api/v1/characters/5da237699734fdcb7bef8f51
-    </p>
-    <p>
-      Here is the body
-    </p>
-  </section>
-</DocumentFragment>
-`;
-
 exports[`HistoryItem component renders the HistoryItem component 1`] = `
 <DocumentFragment>
   <section>

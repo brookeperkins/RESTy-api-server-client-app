@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HistoryList component render HistoryList component 1`] = `
+<DocumentFragment>
+  <ul>
+    <li>
+      Request History
+    </li>
+    <li>
+      <section>
+        <h2>
+          GET
+        </h2>
+        <p>
+          https://hey-arnold-api.herokuapp.com/api/v1/characters/random
+        </p>
+        <p />
+      </section>
+    </li>
+    <li>
+      <section>
+        <h2>
+          POST
+        </h2>
+        <p>
+          https://hey-arnold-api.herokuapp.com/api/v1/characters/random
+        </p>
+        <p />
+      </section>
+    </li>
+    <li>
+      <section>
+        <h2>
+          GET
+        </h2>
+        <p>
+          https://hey-arnold-api.herokuapp.com/api/v1/characters/random
+        </p>
+        <p />
+      </section>
+    </li>
+  </ul>
+</DocumentFragment>
+`;

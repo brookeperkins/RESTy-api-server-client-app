@@ -13,7 +13,6 @@ describe('HistoryItem component', () => {
         body="Here is the body"
       />
     );
-
     expect(asFragment()).toMatchSnapshot();
   });
 });
